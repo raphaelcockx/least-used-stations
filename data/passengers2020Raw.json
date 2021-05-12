@@ -1,0 +1,3320 @@
+[
+  {
+    "name": "AALST",
+    "weekday": 4079,
+    "saturday": 1640,
+    "sunday": 1264
+  },
+  {
+    "name": "AALST-KERREBROEK",
+    "weekday": 21,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "AALTER",
+    "weekday": 1353,
+    "saturday": 472,
+    "sunday": 458
+  },
+  {
+    "name": "AARSCHOT",
+    "weekday": 2485,
+    "saturday": 1259,
+    "sunday": 872
+  },
+  {
+    "name": "AARSELE",
+    "weekday": 21,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "ACREN",
+    "weekday": 146,
+    "saturday": 77,
+    "sunday": 50
+  },
+  {
+    "name": "AISEAU",
+    "weekday": 65,
+    "saturday": 54,
+    "sunday": 41
+  },
+  {
+    "name": "ALKEN",
+    "weekday": 345,
+    "saturday": 90,
+    "sunday": 101
+  },
+  {
+    "name": "AMAY",
+    "weekday": 204,
+    "saturday": 80,
+    "sunday": 48
+  },
+  {
+    "name": "AMPSIN",
+    "weekday": 101,
+    "saturday": 26,
+    "sunday": 16
+  },
+  {
+    "name": "ANDENNE",
+    "weekday": 1082,
+    "saturday": 334,
+    "sunday": 367
+  },
+  {
+    "name": "ANGLEUR",
+    "weekday": 448,
+    "saturday": 87,
+    "sunday": 129
+  },
+  {
+    "name": "ANS",
+    "weekday": 605,
+    "saturday": 113,
+    "sunday": 87
+  },
+  {
+    "name": "ANSEREMME",
+    "weekday": 55,
+    "saturday": 60,
+    "sunday": 34
+  },
+  {
+    "name": "ANTOING",
+    "weekday": 222,
+    "saturday": 74,
+    "sunday": 88
+  },
+  {
+    "name": "ANTWERPEN-BERCHEM",
+    "weekday": 9322,
+    "saturday": 5008,
+    "sunday": 4918
+  },
+  {
+    "name": "ANTWERPEN-CAAL",
+    "weekday": 18626,
+    "saturday": 13566,
+    "sunday": 10187
+  },
+  {
+    "name": "ANTWERPEN-LUCHTBAL",
+    "weekday": 393,
+    "saturday": 98,
+    "sunday": 50
+  },
+  {
+    "name": "ANTWERPEN-NOORDERDOKKEN",
+    "weekday": 122,
+    "saturday": 25,
+    "sunday": 22
+  },
+  {
+    "name": "ANTWERPEN-ZUID",
+    "weekday": 1852,
+    "saturday": 435,
+    "sunday": 409
+  },
+  {
+    "name": "ANZEGEM",
+    "weekday": 127,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "APPELTERRE",
+    "weekday": 187,
+    "saturday": 48,
+    "sunday": 46
+  },
+  {
+    "name": "ARCADES",
+    "weekday": 47,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "ARCHENNES",
+    "weekday": 102,
+    "saturday": 33,
+    "sunday": 30
+  },
+  {
+    "name": "ARLON",
+    "weekday": 2269,
+    "saturday": 690,
+    "sunday": 2032
+  },
+  {
+    "name": "ASSE",
+    "weekday": 649,
+    "saturday": 224,
+    "sunday": 174
+  },
+  {
+    "name": "ASSESSE",
+    "weekday": 143,
+    "saturday": 33,
+    "sunday": 32
+  },
+  {
+    "name": "ATH",
+    "weekday": 3665,
+    "saturday": 1699,
+    "sunday": 1860
+  },
+  {
+    "name": "ATHUS",
+    "weekday": 769,
+    "saturday": 311,
+    "sunday": 152
+  },
+  {
+    "name": "AUBANGE",
+    "weekday": 58,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "AUVELAIS",
+    "weekday": 367,
+    "saturday": 197,
+    "sunday": 174
+  },
+  {
+    "name": "AYE",
+    "weekday": 38,
+    "saturday": 9,
+    "sunday": 7
+  },
+  {
+    "name": "AYWAILLE",
+    "weekday": 153,
+    "saturday": 71,
+    "sunday": 95
+  },
+  {
+    "name": "BAASRODE-ZUID",
+    "weekday": 126,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BALEGEM-DORP",
+    "weekday": 165,
+    "saturday": 42,
+    "sunday": 33
+  },
+  {
+    "name": "BALEGEM-ZUID",
+    "weekday": 116,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BALEN",
+    "weekday": 202,
+    "saturday": 69,
+    "sunday": 49
+  },
+  {
+    "name": "BAMBRUGGE",
+    "weekday": 17,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BARVAUX",
+    "weekday": 209,
+    "saturday": 96,
+    "sunday": 114
+  },
+  {
+    "name": "BAS-OHA",
+    "weekday": 44,
+    "saturday": 5,
+    "sunday": 11
+  },
+  {
+    "name": "BASSE-WAVRE",
+    "weekday": 370,
+    "saturday": 67,
+    "sunday": 53
+  },
+  {
+    "name": "BEAURAING",
+    "weekday": 209,
+    "saturday": 102,
+    "sunday": 99
+  },
+  {
+    "name": "BEERNEM",
+    "weekday": 428,
+    "saturday": 151,
+    "sunday": 169
+  },
+  {
+    "name": "BEERSEL",
+    "weekday": 229,
+    "saturday": 43,
+    "sunday": 43
+  },
+  {
+    "name": "BEERVELDE",
+    "weekday": 148,
+    "saturday": 42,
+    "sunday": 29
+  },
+  {
+    "name": "BEGIJNENDIJK",
+    "weekday": 162,
+    "saturday": 88,
+    "sunday": 67
+  },
+  {
+    "name": "BEIGNEE",
+    "weekday": 9,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BELLEM",
+    "weekday": 91,
+    "saturday": 40,
+    "sunday": 25
+  },
+  {
+    "name": "BELSELE",
+    "weekday": 168,
+    "saturday": 55,
+    "sunday": 33
+  },
+  {
+    "name": "BERCHEM-ST-AG.-BERCHEM",
+    "weekday": 456,
+    "saturday": 65,
+    "sunday": 38
+  },
+  {
+    "name": "BERINGEN",
+    "weekday": 69,
+    "saturday": 36,
+    "sunday": 21
+  },
+  {
+    "name": "BERLAAR",
+    "weekday": 229,
+    "saturday": 120,
+    "sunday": 147
+  },
+  {
+    "name": "BERTRIX",
+    "weekday": 312,
+    "saturday": 135,
+    "sunday": 119
+  },
+  {
+    "name": "BERZEE",
+    "weekday": 132,
+    "saturday": 19,
+    "sunday": 20
+  },
+  {
+    "name": "BEUZET",
+    "weekday": 85,
+    "saturday": 22,
+    "sunday": 5
+  },
+  {
+    "name": "BEVEREN",
+    "weekday": 774,
+    "saturday": 128,
+    "sunday": 106
+  },
+  {
+    "name": "BEVERLO",
+    "weekday": 84,
+    "saturday": 37,
+    "sunday": 23
+  },
+  {
+    "name": "BIERGES-WALIBI",
+    "weekday": 106,
+    "saturday": 314,
+    "sunday": 289
+  },
+  {
+    "name": "BIERSET-AWANS",
+    "weekday": 103,
+    "saturday": 25,
+    "sunday": 29
+  },
+  {
+    "name": "BILZEN",
+    "weekday": 387,
+    "saturday": 154,
+    "sunday": 265
+  },
+  {
+    "name": "BINCHE",
+    "weekday": 237,
+    "saturday": 124,
+    "sunday": 108
+  },
+  {
+    "name": "BISSEGEM",
+    "weekday": 230,
+    "saturday": 72,
+    "sunday": 67
+  },
+  {
+    "name": "BLANKENBERGE",
+    "weekday": 1190,
+    "saturday": 829,
+    "sunday": 1339
+  },
+  {
+    "name": "BLANMONT",
+    "weekday": 135,
+    "saturday": 19,
+    "sunday": 13
+  },
+  {
+    "name": "BLATON",
+    "weekday": 390,
+    "saturday": 113,
+    "sunday": 137
+  },
+  {
+    "name": "BLERET",
+    "weekday": 36,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BOCKSTAEL",
+    "weekday": 404,
+    "saturday": 59,
+    "sunday": 41
+  },
+  {
+    "name": "BOECHOUT",
+    "weekday": 380,
+    "saturday": 125,
+    "sunday": 92
+  },
+  {
+    "name": "BOITSFORT/BOSVOORDE",
+    "weekday": 557,
+    "saturday": 138,
+    "sunday": 166
+  },
+  {
+    "name": "BOKRIJK",
+    "weekday": 70,
+    "saturday": 30,
+    "sunday": 55
+  },
+  {
+    "name": "BOMAL",
+    "weekday": 184,
+    "saturday": 58,
+    "sunday": 89
+  },
+  {
+    "name": "BOOISCHOT",
+    "weekday": 160,
+    "saturday": 95,
+    "sunday": 67
+  },
+  {
+    "name": "BOOM",
+    "weekday": 291,
+    "saturday": 114,
+    "sunday": 84
+  },
+  {
+    "name": "BOONDAEL/BOONDAAL",
+    "weekday": 730,
+    "saturday": 179,
+    "sunday": 106
+  },
+  {
+    "name": "BOORTMEERBEEK",
+    "weekday": 333,
+    "saturday": 63,
+    "sunday": 61
+  },
+  {
+    "name": "BORDET",
+    "weekday": 862,
+    "saturday": 152,
+    "sunday": 77
+  },
+  {
+    "name": "BORNEM",
+    "weekday": 539,
+    "saturday": 183,
+    "sunday": 204
+  },
+  {
+    "name": "BOUSSU",
+    "weekday": 155,
+    "saturday": 61,
+    "sunday": 46
+  },
+  {
+    "name": "BOUWEL",
+    "weekday": 274,
+    "saturday": 101,
+    "sunday": 144
+  },
+  {
+    "name": "BRACQUEGNIES",
+    "weekday": 114,
+    "saturday": 18,
+    "sunday": 26
+  },
+  {
+    "name": "BRAINE-l'ALLEUD",
+    "weekday": 3921,
+    "saturday": 1792,
+    "sunday": 1235
+  },
+  {
+    "name": "BRAINE-LE-COMTE",
+    "weekday": 3354,
+    "saturday": 1150,
+    "sunday": 822
+  },
+  {
+    "name": "BRESSOUX",
+    "weekday": 52,
+    "saturday": 29,
+    "sunday": 24
+  },
+  {
+    "name": "BRU.-CENT.",
+    "weekday": 28212,
+    "saturday": 13407,
+    "sunday": 12417
+  },
+  {
+    "name": "BRU.-CHAP./KAP.",
+    "weekday": 123,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BRU.-CONG.",
+    "weekday": 277,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BRU.-LUXEMBG",
+    "weekday": 4529,
+    "saturday": 1454,
+    "sunday": 1194
+  },
+  {
+    "name": "BRU.-MIDI/ZUID",
+    "weekday": 31006,
+    "saturday": 17165,
+    "sunday": 15038
+  },
+  {
+    "name": "BRU.-NOORD/NORD",
+    "weekday": 26188,
+    "saturday": 9709,
+    "sunday": 8780
+  },
+  {
+    "name": "BRU.-SCHUMAN",
+    "weekday": 4439,
+    "saturday": 1456,
+    "sunday": 1351
+  },
+  {
+    "name": "BRU.-WEST/OUEST",
+    "weekday": 132,
+    "saturday": 53,
+    "sunday": 45
+  },
+  {
+    "name": "BRU. AIRPORT - ZAVENTEM",
+    "weekday": 2240,
+    "saturday": 1354,
+    "sunday": 1187
+  },
+  {
+    "name": "BRUGELETTE",
+    "weekday": 231,
+    "saturday": 29,
+    "sunday": 21
+  },
+  {
+    "name": "BRUGGE",
+    "weekday": 9964,
+    "saturday": 5880,
+    "sunday": 6513
+  },
+  {
+    "name": "BRUGGE-SINT-PIETERS",
+    "weekday": 37,
+    "saturday": 175,
+    "sunday": 155
+  },
+  {
+    "name": "BUDA",
+    "weekday": 57,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "BUGGENHOUT",
+    "weekday": 363,
+    "saturday": 116,
+    "sunday": 183
+  },
+  {
+    "name": "BUIZINGEN",
+    "weekday": 360,
+    "saturday": 126,
+    "sunday": 72
+  },
+  {
+    "name": "BURST",
+    "weekday": 473,
+    "saturday": 88,
+    "sunday": 89
+  },
+  {
+    "name": "CALLENELLE",
+    "weekday": 13,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "CAMBRON-CASTEAU",
+    "weekday": 76,
+    "saturday": 94,
+    "sunday": 113
+  },
+  {
+    "name": "CARLSBOURG",
+    "weekday": 29,
+    "saturday": 17,
+    "sunday": 16
+  },
+  {
+    "name": "CARNIERES",
+    "weekday": 99,
+    "saturday": 30,
+    "sunday": 20
+  },
+  {
+    "name": "CEROUX-MOUSTY",
+    "weekday": 119,
+    "saturday": 24,
+    "sunday": 17
+  },
+  {
+    "name": "CHAPELLE-DIEU",
+    "weekday": 35,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "CHAPOIS",
+    "weekday": 37,
+    "saturday": 7,
+    "sunday": 4
+  },
+  {
+    "name": "CHARLEROI-OUEST",
+    "weekday": 45,
+    "saturday": 19,
+    "sunday": 13
+  },
+  {
+    "name": "CHARLEROI-SUD",
+    "weekday": 7062,
+    "saturday": 3249,
+    "sunday": 3058
+  },
+  {
+    "name": "CHASTRE",
+    "weekday": 256,
+    "saturday": 72,
+    "sunday": 39
+  },
+  {
+    "name": "CHATEAU-DE-SEILLES",
+    "weekday": 126,
+    "saturday": 25,
+    "sunday": 15
+  },
+  {
+    "name": "CHATELET",
+    "weekday": 399,
+    "saturday": 307,
+    "sunday": 287
+  },
+  {
+    "name": "CHAUDFONTAINE",
+    "weekday": 41,
+    "saturday": 40,
+    "sunday": 23
+  },
+  {
+    "name": "CHENEE",
+    "weekday": 73,
+    "saturday": 27,
+    "sunday": 19
+  },
+  {
+    "name": "CINEY",
+    "weekday": 1527,
+    "saturday": 720,
+    "sunday": 782
+  },
+  {
+    "name": "COMBLAIN-LA-TOUR",
+    "weekday": 82,
+    "saturday": 20,
+    "sunday": 27
+  },
+  {
+    "name": "COMINES/KOMEN",
+    "weekday": 423,
+    "saturday": 116,
+    "sunday": 133
+  },
+  {
+    "name": "COO",
+    "weekday": 31,
+    "saturday": 41,
+    "sunday": 37
+  },
+  {
+    "name": "COUILLET",
+    "weekday": 54,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "COUR-SUR-HEURE",
+    "weekday": 24,
+    "saturday": 5,
+    "sunday": 5
+  },
+  {
+    "name": "COURCELLES-MOTTE",
+    "weekday": 113,
+    "saturday": 23,
+    "sunday": 17
+  },
+  {
+    "name": "COURRIERE",
+    "weekday": 185,
+    "saturday": 33,
+    "sunday": 32
+  },
+  {
+    "name": "COURT-SAINT-ETIENNE",
+    "weekday": 283,
+    "saturday": 59,
+    "sunday": 42
+  },
+  {
+    "name": "COUVIN",
+    "weekday": 174,
+    "saturday": 92,
+    "sunday": 96
+  },
+  {
+    "name": "DAVE-SAINT-MARTIN",
+    "weekday": 63,
+    "saturday": 34,
+    "sunday": 16
+  },
+  {
+    "name": "DE HOEK",
+    "weekday": 137,
+    "saturday": 99,
+    "sunday": 69
+  },
+  {
+    "name": "DE PANNE",
+    "weekday": 563,
+    "saturday": 420,
+    "sunday": 561
+  },
+  {
+    "name": "DE PINTE",
+    "weekday": 993,
+    "saturday": 272,
+    "sunday": 217
+  },
+  {
+    "name": "DEINZE",
+    "weekday": 1327,
+    "saturday": 1067,
+    "sunday": 1146
+  },
+  {
+    "name": "DELTA",
+    "weekday": 199,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "DENDERLEEUW",
+    "weekday": 4483,
+    "saturday": 1539,
+    "sunday": 1380
+  },
+  {
+    "name": "DENDERMONDE",
+    "weekday": 3333,
+    "saturday": 1042,
+    "sunday": 967
+  },
+  {
+    "name": "DIEGEM",
+    "weekday": 669,
+    "saturday": 252,
+    "sunday": 179
+  },
+  {
+    "name": "DIEPENBEEK",
+    "weekday": 283,
+    "saturday": 106,
+    "sunday": 138
+  },
+  {
+    "name": "DIEST",
+    "weekday": 1710,
+    "saturday": 631,
+    "sunday": 682
+  },
+  {
+    "name": "DIKSMUIDE",
+    "weekday": 428,
+    "saturday": 224,
+    "sunday": 361
+  },
+  {
+    "name": "DILBEEK",
+    "weekday": 460,
+    "saturday": 61,
+    "sunday": 37
+  },
+  {
+    "name": "DINANT",
+    "weekday": 943,
+    "saturday": 815,
+    "sunday": 678
+  },
+  {
+    "name": "DOLHAIN-GILEPPE",
+    "weekday": 140,
+    "saturday": 22,
+    "sunday": 51
+  },
+  {
+    "name": "DRONGEN",
+    "weekday": 230,
+    "saturday": 36,
+    "sunday": 40
+  },
+  {
+    "name": "DUFFEL",
+    "weekday": 528,
+    "saturday": 228,
+    "sunday": 132
+  },
+  {
+    "name": "DUINBERGEN",
+    "weekday": 172,
+    "saturday": 128,
+    "sunday": 82
+  },
+  {
+    "name": "ECAUSSINNES",
+    "weekday": 501,
+    "saturday": 174,
+    "sunday": 167
+  },
+  {
+    "name": "EDE",
+    "weekday": 207,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "EEKLO",
+    "weekday": 643,
+    "saturday": 291,
+    "sunday": 185
+  },
+  {
+    "name": "EICHEM",
+    "weekday": 60,
+    "saturday": 30,
+    "sunday": 29
+  },
+  {
+    "name": "EINE",
+    "weekday": 248,
+    "saturday": 94,
+    "sunday": 75
+  },
+  {
+    "name": "EKE-NAZARETH",
+    "weekday": 290,
+    "saturday": 89,
+    "sunday": 45
+  },
+  {
+    "name": "EKEREN",
+    "weekday": 611,
+    "saturday": 220,
+    "sunday": 240
+  },
+  {
+    "name": "ENGHIEN/EDINGEN",
+    "weekday": 2523,
+    "saturday": 761,
+    "sunday": 636
+  },
+  {
+    "name": "ENGIS",
+    "weekday": 122,
+    "saturday": 62,
+    "sunday": 25
+  },
+  {
+    "name": "EPPEGEM",
+    "weekday": 498,
+    "saturday": 108,
+    "sunday": 86
+  },
+  {
+    "name": "ERBISOEUL",
+    "weekday": 65,
+    "saturday": 11,
+    "sunday": 12
+  },
+  {
+    "name": "EREMBODEGEM",
+    "weekday": 578,
+    "saturday": 201,
+    "sunday": 164
+  },
+  {
+    "name": "ERNAGE",
+    "weekday": 71,
+    "saturday": 14,
+    "sunday": 5
+  },
+  {
+    "name": "ERPE-MERE",
+    "weekday": 41,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "ERPS-KWERPS",
+    "weekday": 122,
+    "saturday": 43,
+    "sunday": 44
+  },
+  {
+    "name": "ERQUELINNES",
+    "weekday": 200,
+    "saturday": 76,
+    "sunday": 47
+  },
+  {
+    "name": "ERQUELINNES-VILLAGE",
+    "weekday": 36,
+    "saturday": 27,
+    "sunday": 19
+  },
+  {
+    "name": "ESNEUX",
+    "weekday": 128,
+    "saturday": 31,
+    "sunday": 36
+  },
+  {
+    "name": "ESSEN",
+    "weekday": 871,
+    "saturday": 346,
+    "sunday": 381
+  },
+  {
+    "name": "ESSENE-LOMBEEK",
+    "weekday": 176,
+    "saturday": 22,
+    "sunday": 25
+  },
+  {
+    "name": "ETTERBEEK",
+    "weekday": 4264,
+    "saturday": 819,
+    "sunday": 767
+  },
+  {
+    "name": "EUPEN",
+    "weekday": 205,
+    "saturday": 162,
+    "sunday": 152
+  },
+  {
+    "name": "EVERE",
+    "weekday": 426,
+    "saturday": 49,
+    "sunday": 35
+  },
+  {
+    "name": "EVERGEM",
+    "weekday": 254,
+    "saturday": 61,
+    "sunday": 20
+  },
+  {
+    "name": "EZEMAAL",
+    "weekday": 122,
+    "saturday": 121,
+    "sunday": 96
+  },
+  {
+    "name": "FAMILLEUREUX",
+    "weekday": 47,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "FARCIENNES",
+    "weekday": 120,
+    "saturday": 76,
+    "sunday": 56
+  },
+  {
+    "name": "FAUX",
+    "weekday": 86,
+    "saturday": 25,
+    "sunday": 17
+  },
+  {
+    "name": "FEXHE-LE-HT-CLOCHER",
+    "weekday": 134,
+    "saturday": 27,
+    "sunday": 22
+  },
+  {
+    "name": "FLAWINNE",
+    "weekday": 41,
+    "saturday": 37,
+    "sunday": 36
+  },
+  {
+    "name": "FLEMALLE-GRANDE",
+    "weekday": 74,
+    "saturday": 15,
+    "sunday": 15
+  },
+  {
+    "name": "FLEMALLE-HAUTE",
+    "weekday": 884,
+    "saturday": 226,
+    "sunday": 172
+  },
+  {
+    "name": "FLEURUS",
+    "weekday": 297,
+    "saturday": 114,
+    "sunday": 95
+  },
+  {
+    "name": "FLOREFFE",
+    "weekday": 149,
+    "saturday": 51,
+    "sunday": 44
+  },
+  {
+    "name": "FLORENVILLE",
+    "weekday": 133,
+    "saturday": 25,
+    "sunday": 68
+  },
+  {
+    "name": "FLORIVAL",
+    "weekday": 77,
+    "saturday": 17,
+    "sunday": 22
+  },
+  {
+    "name": "FONTAINE-VALMONT",
+    "weekday": 72,
+    "saturday": 28,
+    "sunday": 14
+  },
+  {
+    "name": "FORCHIES",
+    "weekday": 90,
+    "saturday": 27,
+    "sunday": 9
+  },
+  {
+    "name": "FOREST-EST/VORST-OOST",
+    "weekday": 261,
+    "saturday": 152,
+    "sunday": 54
+  },
+  {
+    "name": "FOREST-MIDI/VORST-ZUID",
+    "weekday": 197,
+    "saturday": 42,
+    "sunday": 18
+  },
+  {
+    "name": "FORRIERES",
+    "weekday": 43,
+    "saturday": 13,
+    "sunday": 7
+  },
+  {
+    "name": "FRAIPONT",
+    "weekday": 65,
+    "saturday": 40,
+    "sunday": 26
+  },
+  {
+    "name": "FRAMERIES",
+    "weekday": 198,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "FRANCHIMONT",
+    "weekday": 383,
+    "saturday": 59,
+    "sunday": 35
+  },
+  {
+    "name": "FRANIERE",
+    "weekday": 96,
+    "saturday": 58,
+    "sunday": 51
+  },
+  {
+    "name": "FROYENNES",
+    "weekday": 592,
+    "saturday": 33,
+    "sunday": 18
+  },
+  {
+    "name": "GALMAARDEN",
+    "weekday": 225,
+    "saturday": 43,
+    "sunday": 36
+  },
+  {
+    "name": "GASTUCHE",
+    "weekday": 168,
+    "saturday": 51,
+    "sunday": 50
+  },
+  {
+    "name": "GAVERE-ASPER",
+    "weekday": 329,
+    "saturday": 101,
+    "sunday": 62
+  },
+  {
+    "name": "GEDINNE",
+    "weekday": 96,
+    "saturday": 53,
+    "sunday": 57
+  },
+  {
+    "name": "GEEL",
+    "weekday": 1141,
+    "saturday": 120,
+    "sunday": 128
+  },
+  {
+    "name": "GEMBLOUX",
+    "weekday": 3095,
+    "saturday": 1197,
+    "sunday": 952
+  },
+  {
+    "name": "GENDRON-CELLES",
+    "weekday": 21,
+    "saturday": 31,
+    "sunday": 62
+  },
+  {
+    "name": "GENK",
+    "weekday": 695,
+    "saturday": 325,
+    "sunday": 764
+  },
+  {
+    "name": "GENLY",
+    "weekday": 85,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "GENT-DAMPOORT",
+    "weekday": 4183,
+    "saturday": 1516,
+    "sunday": 1271
+  },
+  {
+    "name": "GENT-SINT-PIETERS",
+    "weekday": 25717,
+    "saturday": 13211,
+    "sunday": 12766
+  },
+  {
+    "name": "GENTBRUGGE",
+    "weekday": 317,
+    "saturday": 137,
+    "sunday": 89
+  },
+  {
+    "name": "GENVAL",
+    "weekday": 915,
+    "saturday": 274,
+    "sunday": 256
+  },
+  {
+    "name": "GERAARDSBERGEN",
+    "weekday": 2093,
+    "saturday": 627,
+    "sunday": 581
+  },
+  {
+    "name": "GERMOIR/MOUTERIJ",
+    "weekday": 324,
+    "saturday": 53,
+    "sunday": 51
+  },
+  {
+    "name": "GHLIN",
+    "weekday": 30,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "GLONS",
+    "weekday": 68,
+    "saturday": 13,
+    "sunday": 10
+  },
+  {
+    "name": "GODARVILLE",
+    "weekday": 58,
+    "saturday": 13,
+    "sunday": 14
+  },
+  {
+    "name": "GODINNE",
+    "weekday": 273,
+    "saturday": 136,
+    "sunday": 153
+  },
+  {
+    "name": "GONTRODE",
+    "weekday": 88,
+    "saturday": 36,
+    "sunday": 28
+  },
+  {
+    "name": "GOUVY",
+    "weekday": 211,
+    "saturday": 64,
+    "sunday": 133
+  },
+  {
+    "name": "GOUY-LEZ-PIETON",
+    "weekday": 56,
+    "saturday": 14,
+    "sunday": 16
+  },
+  {
+    "name": "GRAIDE",
+    "weekday": 49,
+    "saturday": 28,
+    "sunday": 72
+  },
+  {
+    "name": "GROENENDAAL",
+    "weekday": 357,
+    "saturday": 130,
+    "sunday": 123
+  },
+  {
+    "name": "GROOT-BIJGAARDEN",
+    "weekday": 332,
+    "saturday": 44,
+    "sunday": 39
+  },
+  {
+    "name": "GRUPONT",
+    "weekday": 35,
+    "saturday": 16,
+    "sunday": 15
+  },
+  {
+    "name": "HAACHT",
+    "weekday": 344,
+    "saturday": 58,
+    "sunday": 57
+  },
+  {
+    "name": "HAALTERT",
+    "weekday": 240,
+    "saturday": 91,
+    "sunday": 88
+  },
+  {
+    "name": "HABAY",
+    "weekday": 41,
+    "saturday": 8,
+    "sunday": 9
+  },
+  {
+    "name": "HAININ",
+    "weekday": 66,
+    "saturday": 35,
+    "sunday": 12
+  },
+  {
+    "name": "HALANZY",
+    "weekday": 56,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HALLE",
+    "weekday": 5458,
+    "saturday": 1951,
+    "sunday": 1550
+  },
+  {
+    "name": "HAM-SUR-HEURE",
+    "weekday": 71,
+    "saturday": 19,
+    "sunday": 21
+  },
+  {
+    "name": "HAMBOS",
+    "weekday": 23,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HAMOIR",
+    "weekday": 149,
+    "saturday": 48,
+    "sunday": 52
+  },
+  {
+    "name": "HAMONT",
+    "weekday": 98,
+    "saturday": 22,
+    "sunday": 101
+  },
+  {
+    "name": "HANSBEKE",
+    "weekday": 145,
+    "saturday": 45,
+    "sunday": 53
+  },
+  {
+    "name": "HARCHIES",
+    "weekday": 10,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HARELBEKE",
+    "weekday": 675,
+    "saturday": 178,
+    "sunday": 202
+  },
+  {
+    "name": "HAREN",
+    "weekday": 174,
+    "saturday": 28,
+    "sunday": 22
+  },
+  {
+    "name": "HAREN-ZUID/SUD",
+    "weekday": 454,
+    "saturday": 181,
+    "sunday": 104
+  },
+  {
+    "name": "HASSELT",
+    "weekday": 4226,
+    "saturday": 3304,
+    "sunday": 4055
+  },
+  {
+    "name": "HAUTE-FLONE",
+    "weekday": 68,
+    "saturday": 17,
+    "sunday": 7
+  },
+  {
+    "name": "HAVERSIN",
+    "weekday": 68,
+    "saturday": 14,
+    "sunday": 13
+  },
+  {
+    "name": "HAVRE",
+    "weekday": 61,
+    "saturday": 21,
+    "sunday": 15
+  },
+  {
+    "name": "HEIDE",
+    "weekday": 675,
+    "saturday": 285,
+    "sunday": 270
+  },
+  {
+    "name": "HEIST",
+    "weekday": 293,
+    "saturday": 166,
+    "sunday": 99
+  },
+  {
+    "name": "HEIST-OP-DEN-BERG",
+    "weekday": 1133,
+    "saturday": 578,
+    "sunday": 607
+  },
+  {
+    "name": "HEIZIJDE",
+    "weekday": 171,
+    "saturday": 77,
+    "sunday": 41
+  },
+  {
+    "name": "HEMIKSEM",
+    "weekday": 176,
+    "saturday": 84,
+    "sunday": 79
+  },
+  {
+    "name": "HENNUYERES",
+    "weekday": 287,
+    "saturday": 92,
+    "sunday": 74
+  },
+  {
+    "name": "HERENT",
+    "weekday": 305,
+    "saturday": 140,
+    "sunday": 67
+  },
+  {
+    "name": "HERENTALS",
+    "weekday": 2261,
+    "saturday": 2467,
+    "sunday": 2259
+  },
+  {
+    "name": "HERGENRATH",
+    "weekday": 21,
+    "saturday": 21,
+    "sunday": 21
+  },
+  {
+    "name": "HERNE",
+    "weekday": 239,
+    "saturday": 54,
+    "sunday": 52
+  },
+  {
+    "name": "HERSEAUX",
+    "weekday": 459,
+    "saturday": 122,
+    "sunday": 136
+  },
+  {
+    "name": "HERSTAL",
+    "weekday": 232,
+    "saturday": 161,
+    "sunday": 124
+  },
+  {
+    "name": "HERZELE",
+    "weekday": 276,
+    "saturday": 108,
+    "sunday": 121
+  },
+  {
+    "name": "HEUSDEN",
+    "weekday": 86,
+    "saturday": 44,
+    "sunday": 25
+  },
+  {
+    "name": "HEVER",
+    "weekday": 65,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HEVERLEE",
+    "weekday": 426,
+    "saturday": 77,
+    "sunday": 60
+  },
+  {
+    "name": "HILLEGEM",
+    "weekday": 87,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HOBOKEN-POLDER",
+    "weekday": 211,
+    "saturday": 91,
+    "sunday": 63
+  },
+  {
+    "name": "HOEILAART",
+    "weekday": 160,
+    "saturday": 88,
+    "sunday": 74
+  },
+  {
+    "name": "HOFSTADE",
+    "weekday": 35,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HOLLEKEN",
+    "weekday": 102,
+    "saturday": 79,
+    "sunday": 34
+  },
+  {
+    "name": "HONY",
+    "weekday": 38,
+    "saturday": 18,
+    "sunday": 16
+  },
+  {
+    "name": "HOURAING",
+    "weekday": 107,
+    "saturday": 54,
+    "sunday": 41
+  },
+  {
+    "name": "HOURPES",
+    "weekday": 8,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "HOUYET",
+    "weekday": 67,
+    "saturday": 38,
+    "sunday": 33
+  },
+  {
+    "name": "HOVE",
+    "weekday": 298,
+    "saturday": 155,
+    "sunday": 80
+  },
+  {
+    "name": "HUIZINGEN",
+    "weekday": 246,
+    "saturday": 29,
+    "sunday": 25
+  },
+  {
+    "name": "HUY",
+    "weekday": 1465,
+    "saturday": 569,
+    "sunday": 516
+  },
+  {
+    "name": "IDDERGEM",
+    "weekday": 131,
+    "saturday": 40,
+    "sunday": 36
+  },
+  {
+    "name": "IDEGEM",
+    "weekday": 141,
+    "saturday": 42,
+    "sunday": 34
+  },
+  {
+    "name": "IEPER",
+    "weekday": 936,
+    "saturday": 399,
+    "sunday": 436
+  },
+  {
+    "name": "INGELMUNSTER",
+    "weekday": 502,
+    "saturday": 199,
+    "sunday": 307
+  },
+  {
+    "name": "IZEGEM",
+    "weekday": 929,
+    "saturday": 358,
+    "sunday": 363
+  },
+  {
+    "name": "JAMBES",
+    "weekday": 834,
+    "saturday": 289,
+    "sunday": 280
+  },
+  {
+    "name": "JAMBES-EST",
+    "weekday": 153,
+    "saturday": 25,
+    "sunday": 13
+  },
+  {
+    "name": "JAMIOULX",
+    "weekday": 31,
+    "saturday": 4,
+    "sunday": 10
+  },
+  {
+    "name": "JEMAPPES",
+    "weekday": 418,
+    "saturday": 153,
+    "sunday": 121
+  },
+  {
+    "name": "JEMEPPE-SUR-MEUSE",
+    "weekday": 87,
+    "saturday": 35,
+    "sunday": 16
+  },
+  {
+    "name": "JEMEPPE-SUR-SAMBRE",
+    "weekday": 280,
+    "saturday": 149,
+    "sunday": 137
+  },
+  {
+    "name": "JETTE",
+    "weekday": 2116,
+    "saturday": 641,
+    "sunday": 526
+  },
+  {
+    "name": "JURBISE",
+    "weekday": 1054,
+    "saturday": 488,
+    "sunday": 351
+  },
+  {
+    "name": "JUSLENVILLE",
+    "weekday": 94,
+    "saturday": 42,
+    "sunday": 39
+  },
+  {
+    "name": "KALMTHOUT",
+    "weekday": 550,
+    "saturday": 211,
+    "sunday": 214
+  },
+  {
+    "name": "KAPELLE-OP-DEN-BOS",
+    "weekday": 235,
+    "saturday": 125,
+    "sunday": 120
+  },
+  {
+    "name": "KAPELLEN",
+    "weekday": 954,
+    "saturday": 345,
+    "sunday": 347
+  },
+  {
+    "name": "KESSEL",
+    "weekday": 232,
+    "saturday": 94,
+    "sunday": 115
+  },
+  {
+    "name": "KIEWIT",
+    "weekday": 267,
+    "saturday": 32,
+    "sunday": 95
+  },
+  {
+    "name": "KIJKUIT",
+    "weekday": 151,
+    "saturday": 63,
+    "sunday": 52
+  },
+  {
+    "name": "KNOKKE",
+    "weekday": 537,
+    "saturday": 294,
+    "sunday": 160
+  },
+  {
+    "name": "KOKSIJDE",
+    "weekday": 229,
+    "saturday": 113,
+    "sunday": 295
+  },
+  {
+    "name": "KONTICH-LINT",
+    "weekday": 540,
+    "saturday": 314,
+    "sunday": 146
+  },
+  {
+    "name": "KORTEMARK",
+    "weekday": 381,
+    "saturday": 180,
+    "sunday": 330
+  },
+  {
+    "name": "KORTENBERG",
+    "weekday": 406,
+    "saturday": 201,
+    "sunday": 127
+  },
+  {
+    "name": "KORTRIJK",
+    "weekday": 6310,
+    "saturday": 2723,
+    "sunday": 2785
+  },
+  {
+    "name": "KWATRECHT",
+    "weekday": 81,
+    "saturday": 20,
+    "sunday": 25
+  },
+  {
+    "name": "LA HULPE",
+    "weekday": 833,
+    "saturday": 206,
+    "sunday": 157
+  },
+  {
+    "name": "LA LOUVIERE-CENTRE",
+    "weekday": 950,
+    "saturday": 643,
+    "sunday": 500
+  },
+  {
+    "name": "LA LOUVIERE-SUD",
+    "weekday": 1853,
+    "saturday": 1004,
+    "sunday": 843
+  },
+  {
+    "name": "LA ROCHE",
+    "weekday": 118,
+    "saturday": 18,
+    "sunday": 25
+  },
+  {
+    "name": "LABUISSIERE",
+    "weekday": 59,
+    "saturday": 26,
+    "sunday": 8
+  },
+  {
+    "name": "LANDEGEM",
+    "weekday": 351,
+    "saturday": 87,
+    "sunday": 72
+  },
+  {
+    "name": "LANDELIES",
+    "weekday": 55,
+    "saturday": 16,
+    "sunday": 10
+  },
+  {
+    "name": "LANDEN",
+    "weekday": 1522,
+    "saturday": 622,
+    "sunday": 693
+  },
+  {
+    "name": "LANDSKOUTER",
+    "weekday": 46,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "LANGDORP",
+    "weekday": 101,
+    "saturday": 53,
+    "sunday": 28
+  },
+  {
+    "name": "LE CAMPINAIRE",
+    "weekday": 41,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "LEBBEKE",
+    "weekday": 227,
+    "saturday": 74,
+    "sunday": 63
+  },
+  {
+    "name": "LEDE",
+    "weekday": 818,
+    "saturday": 339,
+    "sunday": 293
+  },
+  {
+    "name": "LEIGNON",
+    "weekday": 20,
+    "saturday": 5,
+    "sunday": 5
+  },
+  {
+    "name": "LEMAN",
+    "weekday": 44,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "LEMBEEK",
+    "weekday": 485,
+    "saturday": 175,
+    "sunday": 95
+  },
+  {
+    "name": "LENS",
+    "weekday": 114,
+    "saturday": 18,
+    "sunday": 19
+  },
+  {
+    "name": "LEOPOLDSBURG",
+    "weekday": 280,
+    "saturday": 131,
+    "sunday": 75
+  },
+  {
+    "name": "LESSINES",
+    "weekday": 499,
+    "saturday": 234,
+    "sunday": 154
+  },
+  {
+    "name": "LEUVEN",
+    "weekday": 18054,
+    "saturday": 7356,
+    "sunday": 5727
+  },
+  {
+    "name": "LEUZE",
+    "weekday": 1217,
+    "saturday": 722,
+    "sunday": 591
+  },
+  {
+    "name": "LEVAL",
+    "weekday": 79,
+    "saturday": 31,
+    "sunday": 31
+  },
+  {
+    "name": "LIBRAMONT",
+    "weekday": 1464,
+    "saturday": 635,
+    "sunday": 1094
+  },
+  {
+    "name": "LICHTERVELDE",
+    "weekday": 2656,
+    "saturday": 1432,
+    "sunday": 2116
+  },
+  {
+    "name": "LIEDEKERKE",
+    "weekday": 1216,
+    "saturday": 606,
+    "sunday": 523
+  },
+  {
+    "name": "LIEGE-CARRE",
+    "weekday": 957,
+    "saturday": 439,
+    "sunday": 340
+  },
+  {
+    "name": "LIEGE-GUILLEMINS",
+    "weekday": 10938,
+    "saturday": 6442,
+    "sunday": 6547
+  },
+  {
+    "name": "LIEGE-SAINT-LAMBERT",
+    "weekday": 1843,
+    "saturday": 974,
+    "sunday": 794
+  },
+  {
+    "name": "LIER",
+    "weekday": 3692,
+    "saturday": 1462,
+    "sunday": 1720
+  },
+  {
+    "name": "LIERDE",
+    "weekday": 277,
+    "saturday": 48,
+    "sunday": 74
+  },
+  {
+    "name": "LIERS",
+    "weekday": 161,
+    "saturday": 54,
+    "sunday": 35
+  },
+  {
+    "name": "LIGNY",
+    "weekday": 98,
+    "saturday": 27,
+    "sunday": 18
+  },
+  {
+    "name": "LILLOIS",
+    "weekday": 413,
+    "saturday": 101,
+    "sunday": 57
+  },
+  {
+    "name": "LIMAL",
+    "weekday": 248,
+    "saturday": 57,
+    "sunday": 38
+  },
+  {
+    "name": "LINKEBEEK",
+    "weekday": 634,
+    "saturday": 264,
+    "sunday": 146
+  },
+  {
+    "name": "LISSEWEGE",
+    "weekday": 130,
+    "saturday": 49,
+    "sunday": 42
+  },
+  {
+    "name": "LOBBES",
+    "weekday": 121,
+    "saturday": 42,
+    "sunday": 25
+  },
+  {
+    "name": "LODELINSART",
+    "weekday": 67,
+    "saturday": 16,
+    "sunday": 17
+  },
+  {
+    "name": "LOKEREN",
+    "weekday": 3281,
+    "saturday": 1237,
+    "sunday": 1142
+  },
+  {
+    "name": "LOMMEL",
+    "weekday": 303,
+    "saturday": 71,
+    "sunday": 165
+  },
+  {
+    "name": "LONDERZEEL",
+    "weekday": 569,
+    "saturday": 151,
+    "sunday": 175
+  },
+  {
+    "name": "LONZEE",
+    "weekday": 95,
+    "saturday": 31,
+    "sunday": 10
+  },
+  {
+    "name": "LOT",
+    "weekday": 455,
+    "saturday": 195,
+    "sunday": 90
+  },
+  {
+    "name": "LOUVAIN-LA-NEUVE",
+    "weekday": 3924,
+    "saturday": 1632,
+    "sunday": 1051
+  },
+  {
+    "name": "LUSTIN",
+    "weekday": 240,
+    "saturday": 115,
+    "sunday": 131
+  },
+  {
+    "name": "LUTTRE",
+    "weekday": 1264,
+    "saturday": 472,
+    "sunday": 437
+  },
+  {
+    "name": "MAFFLE",
+    "weekday": 87,
+    "saturday": 26,
+    "sunday": 22
+  },
+  {
+    "name": "MALDEREN",
+    "weekday": 207,
+    "saturday": 88,
+    "sunday": 87
+  },
+  {
+    "name": "MANAGE",
+    "weekday": 204,
+    "saturday": 46,
+    "sunday": 39
+  },
+  {
+    "name": "MARBEHAN",
+    "weekday": 388,
+    "saturday": 187,
+    "sunday": 605
+  },
+  {
+    "name": "MARCHE-EN-FAMENNE",
+    "weekday": 265,
+    "saturday": 88,
+    "sunday": 125
+  },
+  {
+    "name": "MARCHE-LES-DAMES",
+    "weekday": 45,
+    "saturday": 6,
+    "sunday": 7
+  },
+  {
+    "name": "MARCHE-LEZ-ECAUSSINNES",
+    "weekday": 93,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MARCHIENNE-AU-PONT",
+    "weekday": 1086,
+    "saturday": 408,
+    "sunday": 403
+  },
+  {
+    "name": "MARCHIENNE-ZONE",
+    "weekday": 20,
+    "saturday": 9,
+    "sunday": 3
+  },
+  {
+    "name": "MARIA-AALTER",
+    "weekday": 130,
+    "saturday": 38,
+    "sunday": 52
+  },
+  {
+    "name": "MARIEMBOURG",
+    "weekday": 142,
+    "saturday": 60,
+    "sunday": 61
+  },
+  {
+    "name": "MARLOIE",
+    "weekday": 1182,
+    "saturday": 630,
+    "sunday": 701
+  },
+  {
+    "name": "MASNUY-SAINT-PIERRE",
+    "weekday": 19,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MAUBRAY",
+    "weekday": 19,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MAZY",
+    "weekday": 36,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MECHELEN",
+    "weekday": 10731,
+    "saturday": 5669,
+    "sunday": 4522
+  },
+  {
+    "name": "MECHELEN-NEKKERSPOEL",
+    "weekday": 1378,
+    "saturday": 849,
+    "sunday": 657
+  },
+  {
+    "name": "MEISER",
+    "weekday": 490,
+    "saturday": 77,
+    "sunday": 59
+  },
+  {
+    "name": "MELKOUWEN",
+    "weekday": 99,
+    "saturday": 56,
+    "sunday": 51
+  },
+  {
+    "name": "MELLE",
+    "weekday": 592,
+    "saturday": 114,
+    "sunday": 131
+  },
+  {
+    "name": "MELREUX-HOTTON",
+    "weekday": 205,
+    "saturday": 91,
+    "sunday": 117
+  },
+  {
+    "name": "MELSELE",
+    "weekday": 115,
+    "saturday": 223,
+    "sunday": 101
+  },
+  {
+    "name": "MENEN",
+    "weekday": 704,
+    "saturday": 346,
+    "sunday": 285
+  },
+  {
+    "name": "MERCHTEM",
+    "weekday": 494,
+    "saturday": 160,
+    "sunday": 105
+  },
+  {
+    "name": "MERELBEKE",
+    "weekday": 509,
+    "saturday": 148,
+    "sunday": 126
+  },
+  {
+    "name": "MERODE",
+    "weekday": 270,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MERY",
+    "weekday": 63,
+    "saturday": 22,
+    "sunday": 20
+  },
+  {
+    "name": "MESSANCY",
+    "weekday": 86,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MEVERGNIES-ATTRE",
+    "weekday": 56,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "MILMORT",
+    "weekday": 218,
+    "saturday": 58,
+    "sunday": 65
+  },
+  {
+    "name": "MOENSBERG",
+    "weekday": 352,
+    "saturday": 54,
+    "sunday": 47
+  },
+  {
+    "name": "MOL",
+    "weekday": 1611,
+    "saturday": 1045,
+    "sunday": 873
+  },
+  {
+    "name": "MOLLEM",
+    "weekday": 170,
+    "saturday": 59,
+    "sunday": 58
+  },
+  {
+    "name": "MOMALLE",
+    "weekday": 93,
+    "saturday": 12,
+    "sunday": 15
+  },
+  {
+    "name": "MONS",
+    "weekday": 6475,
+    "saturday": 2328,
+    "sunday": 1913
+  },
+  {
+    "name": "MONT-SAINT-GUIBERT",
+    "weekday": 358,
+    "saturday": 85,
+    "sunday": 36
+  },
+  {
+    "name": "MOORTSELE",
+    "weekday": 81,
+    "saturday": 31,
+    "sunday": 30
+  },
+  {
+    "name": "MORLANWELZ",
+    "weekday": 247,
+    "saturday": 39,
+    "sunday": 25
+  },
+  {
+    "name": "MORTSEL",
+    "weekday": 337,
+    "saturday": 102,
+    "sunday": 47
+  },
+  {
+    "name": "MORTSEL-DEURNESTEENWEG",
+    "weekday": null,
+    "saturday": null,
+    "sunday": 18
+  },
+  {
+    "name": "MORTSEL-LIERSESTEENWEG",
+    "weekday": 118,
+    "saturday": 78,
+    "sunday": null
+  },
+  {
+    "name": "MORTSEL-OUDE-GOD",
+    "weekday": 510,
+    "saturday": 328,
+    "sunday": 306
+  },
+  {
+    "name": "MOUSCRON/MOESKROEN",
+    "weekday": 1416,
+    "saturday": 728,
+    "sunday": 849
+  },
+  {
+    "name": "MOUSTIER",
+    "weekday": 160,
+    "saturday": 65,
+    "sunday": 53
+  },
+  {
+    "name": "MUIZEN",
+    "weekday": 101,
+    "saturday": 47,
+    "sunday": 46
+  },
+  {
+    "name": "MUNKZWALM",
+    "weekday": 178,
+    "saturday": 71,
+    "sunday": 53
+  },
+  {
+    "name": "NAMECHE",
+    "weekday": 98,
+    "saturday": 11,
+    "sunday": 15
+  },
+  {
+    "name": "NAMUR",
+    "weekday": 14126,
+    "saturday": 6157,
+    "sunday": 4474
+  },
+  {
+    "name": "NANINNE",
+    "weekday": 133,
+    "saturday": 25,
+    "sunday": 17
+  },
+  {
+    "name": "NATOYE",
+    "weekday": 129,
+    "saturday": 64,
+    "sunday": 35
+  },
+  {
+    "name": "NEERPELT",
+    "weekday": 232,
+    "saturday": 72,
+    "sunday": 200
+  },
+  {
+    "name": "NEERWINDEN",
+    "weekday": 95,
+    "saturday": 127,
+    "sunday": 109
+  },
+  {
+    "name": "NESSONVAUX",
+    "weekday": 202,
+    "saturday": 131,
+    "sunday": 88
+  },
+  {
+    "name": "NEUFCHATEAU",
+    "weekday": 88,
+    "saturday": 17,
+    "sunday": 20
+  },
+  {
+    "name": "NEUFVILLES",
+    "weekday": 34,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "NIEL",
+    "weekday": 188,
+    "saturday": 113,
+    "sunday": 94
+  },
+  {
+    "name": "NIEUWKERKEN-WAAS",
+    "weekday": 136,
+    "saturday": 25,
+    "sunday": 19
+  },
+  {
+    "name": "NIJLEN",
+    "weekday": 414,
+    "saturday": 176,
+    "sunday": 175
+  },
+  {
+    "name": "NIMY",
+    "weekday": 67,
+    "saturday": 30,
+    "sunday": 18
+  },
+  {
+    "name": "NINOVE",
+    "weekday": 988,
+    "saturday": 126,
+    "sunday": 113
+  },
+  {
+    "name": "NIVELLES",
+    "weekday": 3558,
+    "saturday": 1209,
+    "sunday": 924
+  },
+  {
+    "name": "NOORDERKEMPEN",
+    "weekday": 550,
+    "saturday": 225,
+    "sunday": 409
+  },
+  {
+    "name": "NOSSEGEM",
+    "weekday": 205,
+    "saturday": 103,
+    "sunday": 71
+  },
+  {
+    "name": "OBAIX-BUZET",
+    "weekday": 112,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "OBOURG",
+    "weekday": 27,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "OKEGEM",
+    "weekday": 162,
+    "saturday": 43,
+    "sunday": 41
+  },
+  {
+    "name": "OLEN",
+    "weekday": 371,
+    "saturday": 137,
+    "sunday": 140
+  },
+  {
+    "name": "OOSTENDE",
+    "weekday": 4409,
+    "saturday": 3593,
+    "sunday": 3701
+  },
+  {
+    "name": "OOSTKAMP",
+    "weekday": 104,
+    "saturday": 45,
+    "sunday": 28
+  },
+  {
+    "name": "OPWIJK",
+    "weekday": 613,
+    "saturday": 154,
+    "sunday": 151
+  },
+  {
+    "name": "OTTIGNIES",
+    "weekday": 19789,
+    "saturday": 8579,
+    "sunday": 8060
+  },
+  {
+    "name": "OUD-HEVERLEE",
+    "weekday": 88,
+    "saturday": 19,
+    "sunday": 41
+  },
+  {
+    "name": "OUDEGEM",
+    "weekday": 105,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "OUDENAARDE",
+    "weekday": 1754,
+    "saturday": 871,
+    "sunday": 571
+  },
+  {
+    "name": "OUGREE",
+    "weekday": 61,
+    "saturday": 20,
+    "sunday": 31
+  },
+  {
+    "name": "OVERPELT",
+    "weekday": 174,
+    "saturday": 44,
+    "sunday": 69
+  },
+  {
+    "name": "PALISEUL",
+    "weekday": 53,
+    "saturday": 37,
+    "sunday": 35
+  },
+  {
+    "name": "PAPIGNIES",
+    "weekday": 63,
+    "saturday": 20,
+    "sunday": 14
+  },
+  {
+    "name": "PECROT",
+    "weekday": 173,
+    "saturday": 44,
+    "sunday": 34
+  },
+  {
+    "name": "PEPINSTER",
+    "weekday": 832,
+    "saturday": 228,
+    "sunday": 337
+  },
+  {
+    "name": "PEPINSTER-CITE",
+    "weekday": 55,
+    "saturday": 8,
+    "sunday": 10
+  },
+  {
+    "name": "PERUWELZ",
+    "weekday": 588,
+    "saturday": 141,
+    "sunday": 163
+  },
+  {
+    "name": "PHILIPPEVILLE",
+    "weekday": 336,
+    "saturday": 50,
+    "sunday": 59
+  },
+  {
+    "name": "PIETON",
+    "weekday": 85,
+    "saturday": 24,
+    "sunday": 9
+  },
+  {
+    "name": "POIX-SAINT-HUBERT",
+    "weekday": 28,
+    "saturday": 9,
+    "sunday": 24
+  },
+  {
+    "name": "PONT-A-CELLES",
+    "weekday": 54,
+    "saturday": 19,
+    "sunday": 19
+  },
+  {
+    "name": "PONT-DE-SERAING",
+    "weekday": 130,
+    "saturday": 24,
+    "sunday": 5
+  },
+  {
+    "name": "POPERINGE",
+    "weekday": 450,
+    "saturday": 196,
+    "sunday": 321
+  },
+  {
+    "name": "POULSEUR",
+    "weekday": 139,
+    "saturday": 49,
+    "sunday": 38
+  },
+  {
+    "name": "PROFONDSART",
+    "weekday": 110,
+    "saturday": 72,
+    "sunday": 78
+  },
+  {
+    "name": "PRY",
+    "weekday": 19,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "PUURS",
+    "weekday": 1003,
+    "saturday": 484,
+    "sunday": 467
+  },
+  {
+    "name": "QUAREGNON",
+    "weekday": 375,
+    "saturday": 161,
+    "sunday": 126
+  },
+  {
+    "name": "QUEVY",
+    "weekday": 128,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "QUIEVRAIN",
+    "weekday": 261,
+    "saturday": 146,
+    "sunday": 111
+  },
+  {
+    "name": "REBAIX",
+    "weekday": 76,
+    "saturday": 19,
+    "sunday": 19
+  },
+  {
+    "name": "REMICOURT",
+    "weekday": 130,
+    "saturday": 29,
+    "sunday": 30
+  },
+  {
+    "name": "RHISNES",
+    "weekday": 147,
+    "saturday": 47,
+    "sunday": 17
+  },
+  {
+    "name": "RIVAGE",
+    "weekday": 127,
+    "saturday": 43,
+    "sunday": 51
+  },
+  {
+    "name": "RIXENSART",
+    "weekday": 863,
+    "saturday": 215,
+    "sunday": 247
+  },
+  {
+    "name": "ROCHEFORT-JEMELLE",
+    "weekday": 444,
+    "saturday": 448,
+    "sunday": 443
+  },
+  {
+    "name": "ROESELARE",
+    "weekday": 1990,
+    "saturday": 892,
+    "sunday": 853
+  },
+  {
+    "name": "RONET",
+    "weekday": 40,
+    "saturday": 31,
+    "sunday": 30
+  },
+  {
+    "name": "RONSE/RENAIX",
+    "weekday": 791,
+    "saturday": 148,
+    "sunday": 233
+  },
+  {
+    "name": "ROUX",
+    "weekday": 92,
+    "saturday": 26,
+    "sunday": 23
+  },
+  {
+    "name": "RUISBR.-SAUVEGARDE",
+    "weekday": 121,
+    "saturday": 49,
+    "sunday": 38
+  },
+  {
+    "name": "RUISBROEK",
+    "weekday": 572,
+    "saturday": 253,
+    "sunday": 136
+  },
+  {
+    "name": "SART-BERNARD",
+    "weekday": 89,
+    "saturday": 25,
+    "sunday": 15
+  },
+  {
+    "name": "SCHAARBEEK/SCHAERBEEK",
+    "weekday": 1849,
+    "saturday": 789,
+    "sunday": 443
+  },
+  {
+    "name": "SCHELDEWINDEKE",
+    "weekday": 222,
+    "saturday": 50,
+    "sunday": 47
+  },
+  {
+    "name": "SCHELLE",
+    "weekday": 156,
+    "saturday": 92,
+    "sunday": 50
+  },
+  {
+    "name": "SCHELLEBELLE",
+    "weekday": 310,
+    "saturday": 65,
+    "sunday": 46
+  },
+  {
+    "name": "SCHENDELBEKE",
+    "weekday": 159,
+    "saturday": 44,
+    "sunday": 35
+  },
+  {
+    "name": "SCHOONAARDE",
+    "weekday": 152,
+    "saturday": 68,
+    "sunday": 87
+  },
+  {
+    "name": "SCHULEN",
+    "weekday": 134,
+    "saturday": 59,
+    "sunday": 176
+  },
+  {
+    "name": "SCLAIGNEAUX",
+    "weekday": 85,
+    "saturday": 15,
+    "sunday": 12
+  },
+  {
+    "name": "SCLESSIN",
+    "weekday": 34,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "SERAING",
+    "weekday": 220,
+    "saturday": 65,
+    "sunday": 44
+  },
+  {
+    "name": "SERSKAMP",
+    "weekday": 108,
+    "saturday": 31,
+    "sunday": 23
+  },
+  {
+    "name": "SILLY",
+    "weekday": 751,
+    "saturday": 161,
+    "sunday": 171
+  },
+  {
+    "name": "SIMONIS",
+    "weekday": 94,
+    "saturday": 41,
+    "sunday": 40
+  },
+  {
+    "name": "SINAAI",
+    "weekday": 211,
+    "saturday": 45,
+    "sunday": 36
+  },
+  {
+    "name": "SLEIDINGE",
+    "weekday": 180,
+    "saturday": 54,
+    "sunday": 27
+  },
+  {
+    "name": "SOIGNIES",
+    "weekday": 1800,
+    "saturday": 603,
+    "sunday": 426
+  },
+  {
+    "name": "SOLRE-SUR-SAMBRE",
+    "weekday": 71,
+    "saturday": 29,
+    "sunday": 14
+  },
+  {
+    "name": "SPA",
+    "weekday": 270,
+    "saturday": 147,
+    "sunday": 130
+  },
+  {
+    "name": "SPA-GERONSTERE",
+    "weekday": 330,
+    "saturday": 168,
+    "sunday": 156
+  },
+  {
+    "name": "ST-DENIJS-BOEKEL",
+    "weekday": 122,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "ST-DENIS-BOVESSE",
+    "weekday": 104,
+    "saturday": 33,
+    "sunday": 11
+  },
+  {
+    "name": "ST-GEN-RODE/RHODE-ST-GEN",
+    "weekday": 1016,
+    "saturday": 385,
+    "sunday": 258
+  },
+  {
+    "name": "ST-GHISLAIN",
+    "weekday": 1426,
+    "saturday": 325,
+    "sunday": 267
+  },
+  {
+    "name": "ST-GILLIS",
+    "weekday": 85,
+    "saturday": 25,
+    "sunday": 20
+  },
+  {
+    "name": "ST-JOB",
+    "weekday": 715,
+    "saturday": 148,
+    "sunday": 121
+  },
+  {
+    "name": "ST-JORIS-WEERT",
+    "weekday": 212,
+    "saturday": 70,
+    "sunday": 56
+  },
+  {
+    "name": "ST-KATELIJNE-WAVER",
+    "weekday": 554,
+    "saturday": 169,
+    "sunday": 101
+  },
+  {
+    "name": "ST-MARIABURG",
+    "weekday": 176,
+    "saturday": 96,
+    "sunday": 70
+  },
+  {
+    "name": "ST-MARTENS-BODEGEM",
+    "weekday": 241,
+    "saturday": 37,
+    "sunday": 29
+  },
+  {
+    "name": "ST-NIKLAAS",
+    "weekday": 4907,
+    "saturday": 1974,
+    "sunday": 1849
+  },
+  {
+    "name": "ST-TRUIDEN",
+    "weekday": 922,
+    "saturday": 228,
+    "sunday": 284
+  },
+  {
+    "name": "STATTE",
+    "weekday": 307,
+    "saturday": 117,
+    "sunday": 106
+  },
+  {
+    "name": "STOCKEM",
+    "weekday": 10,
+    "saturday": 6,
+    "sunday": 6
+  },
+  {
+    "name": "SY",
+    "weekday": 26,
+    "saturday": 12,
+    "sunday": 22
+  },
+  {
+    "name": "TAMINES",
+    "weekday": 1151,
+    "saturday": 595,
+    "sunday": 559
+  },
+  {
+    "name": "TEMSE",
+    "weekday": 405,
+    "saturday": 144,
+    "sunday": 185
+  },
+  {
+    "name": "TERHAGEN",
+    "weekday": 114,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "TERNAT",
+    "weekday": 571,
+    "saturday": 288,
+    "sunday": 203
+  },
+  {
+    "name": "TESTELT",
+    "weekday": 174,
+    "saturday": 87,
+    "sunday": 60
+  },
+  {
+    "name": "THEUX",
+    "weekday": 142,
+    "saturday": 50,
+    "sunday": 52
+  },
+  {
+    "name": "THIEU",
+    "weekday": 80,
+    "saturday": 20,
+    "sunday": 10
+  },
+  {
+    "name": "THUIN",
+    "weekday": 211,
+    "saturday": 77,
+    "sunday": 41
+  },
+  {
+    "name": "THULIN",
+    "weekday": 87,
+    "saturday": 57,
+    "sunday": 31
+  },
+  {
+    "name": "TIELEN",
+    "weekday": 418,
+    "saturday": 158,
+    "sunday": 238
+  },
+  {
+    "name": "TIELT",
+    "weekday": 661,
+    "saturday": 269,
+    "sunday": 364
+  },
+  {
+    "name": "TIENEN",
+    "weekday": 2500,
+    "saturday": 495,
+    "sunday": 510
+  },
+  {
+    "name": "TILFF",
+    "weekday": 80,
+    "saturday": 34,
+    "sunday": 29
+  },
+  {
+    "name": "TILLY",
+    "weekday": 176,
+    "saturday": 34,
+    "sunday": 35
+  },
+  {
+    "name": "TOLLEMBEEK",
+    "weekday": 179,
+    "saturday": 34,
+    "sunday": 37
+  },
+  {
+    "name": "TONGEREN",
+    "weekday": 526,
+    "saturday": 214,
+    "sunday": 278
+  },
+  {
+    "name": "TORHOUT",
+    "weekday": 1202,
+    "saturday": 379,
+    "sunday": 452
+  },
+  {
+    "name": "TOUR ET TAXIS/THURN EN TAXIS",
+    "weekday": 70,
+    "saturday": 29,
+    "sunday": 29
+  },
+  {
+    "name": "TOURNAI",
+    "weekday": 4243,
+    "saturday": 1365,
+    "sunday": 1254
+  },
+  {
+    "name": "TROIS-PONTS",
+    "weekday": 146,
+    "saturday": 79,
+    "sunday": 124
+  },
+  {
+    "name": "TROOZ",
+    "weekday": 67,
+    "saturday": 49,
+    "sunday": 26
+  },
+  {
+    "name": "TUBIZE",
+    "weekday": 2149,
+    "saturday": 1063,
+    "sunday": 664
+  },
+  {
+    "name": "TURNHOUT",
+    "weekday": 1010,
+    "saturday": 535,
+    "sunday": 902
+  },
+  {
+    "name": "UCCLE/UKKEL-CALEVOET",
+    "weekday": 593,
+    "saturday": 264,
+    "sunday": 130
+  },
+  {
+    "name": "UCCLE/UKKEL-STALLE",
+    "weekday": 151,
+    "saturday": 110,
+    "sunday": 73
+  },
+  {
+    "name": "VELTEM",
+    "weekday": 190,
+    "saturday": 210,
+    "sunday": 38
+  },
+  {
+    "name": "VERTRIJK",
+    "weekday": 247,
+    "saturday": 134,
+    "sunday": 105
+  },
+  {
+    "name": "VERVIERS-CENTRAL",
+    "weekday": 3623,
+    "saturday": 2096,
+    "sunday": 1990
+  },
+  {
+    "name": "VERVIERS-PALAIS",
+    "weekday": 73,
+    "saturday": 11,
+    "sunday": 32
+  },
+  {
+    "name": "VEURNE",
+    "weekday": 353,
+    "saturday": 181,
+    "sunday": 356
+  },
+  {
+    "name": "VIANE-MOERBEKE",
+    "weekday": 268,
+    "saturday": 59,
+    "sunday": 60
+  },
+  {
+    "name": "VICHTE",
+    "weekday": 158,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "VIELSALM",
+    "weekday": 232,
+    "saturday": 81,
+    "sunday": 126
+  },
+  {
+    "name": "VIJFHUIZEN",
+    "weekday": 27,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "VILLE-POMMEROEUL",
+    "weekday": 12,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "VILLERS-LA-VILLE",
+    "weekday": 185,
+    "saturday": 37,
+    "sunday": 38
+  },
+  {
+    "name": "VILVOORDE",
+    "weekday": 3315,
+    "saturday": 1947,
+    "sunday": 1263
+  },
+  {
+    "name": "VIRTON",
+    "weekday": 257,
+    "saturday": 52,
+    "sunday": 113
+  },
+  {
+    "name": "VISE",
+    "weekday": 486,
+    "saturday": 390,
+    "sunday": 320
+  },
+  {
+    "name": "VIVIER D'OIE/DIESDELLE",
+    "weekday": 559,
+    "saturday": 114,
+    "sunday": 91
+  },
+  {
+    "name": "VIVILLE",
+    "weekday": 14,
+    "saturday": 7,
+    "sunday": 5
+  },
+  {
+    "name": "VOROUX",
+    "weekday": 63,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "WAARSCHOOT",
+    "weekday": 135,
+    "saturday": 69,
+    "sunday": 30
+  },
+  {
+    "name": "WALCOURT",
+    "weekday": 232,
+    "saturday": 61,
+    "sunday": 63
+  },
+  {
+    "name": "WAREGEM",
+    "weekday": 1917,
+    "saturday": 425,
+    "sunday": 464
+  },
+  {
+    "name": "WAREMME",
+    "weekday": 1296,
+    "saturday": 238,
+    "sunday": 127
+  },
+  {
+    "name": "WATERLOO",
+    "weekday": 1499,
+    "saturday": 640,
+    "sunday": 387
+  },
+  {
+    "name": "WATERMAEL/WATERMAAL",
+    "weekday": 157,
+    "saturday": 142,
+    "sunday": 114
+  },
+  {
+    "name": "WAVRE",
+    "weekday": 719,
+    "saturday": 368,
+    "sunday": 296
+  },
+  {
+    "name": "WEERDE",
+    "weekday": 303,
+    "saturday": 81,
+    "sunday": 58
+  },
+  {
+    "name": "WELKENRAEDT",
+    "weekday": 1062,
+    "saturday": 744,
+    "sunday": 649
+  },
+  {
+    "name": "WELLE",
+    "weekday": 97,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "WERVIK",
+    "weekday": 581,
+    "saturday": 185,
+    "sunday": 177
+  },
+  {
+    "name": "WESPELAAR-TILDONK",
+    "weekday": 295,
+    "saturday": 49,
+    "sunday": 45
+  },
+  {
+    "name": "WETTEREN",
+    "weekday": 1560,
+    "saturday": 651,
+    "sunday": 637
+  },
+  {
+    "name": "WEVELGEM",
+    "weekday": 351,
+    "saturday": 173,
+    "sunday": 138
+  },
+  {
+    "name": "WEZEMAAL",
+    "weekday": 455,
+    "saturday": 192,
+    "sunday": 110
+  },
+  {
+    "name": "WICHELEN",
+    "weekday": 108,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "WIJGMAAL",
+    "weekday": 306,
+    "saturday": 47,
+    "sunday": 46
+  },
+  {
+    "name": "WILDERT",
+    "weekday": 165,
+    "saturday": 87,
+    "sunday": 61
+  },
+  {
+    "name": "WILLEBROEK",
+    "weekday": 372,
+    "saturday": 181,
+    "sunday": 207
+  },
+  {
+    "name": "WOLFSTEE",
+    "weekday": 18,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "WONDELGEM",
+    "weekday": 130,
+    "saturday": 49,
+    "sunday": 24
+  },
+  {
+    "name": "YVES-GOMEZEE",
+    "weekday": 44,
+    "saturday": 6,
+    "sunday": 11
+  },
+  {
+    "name": "YVOIR",
+    "weekday": 401,
+    "saturday": 200,
+    "sunday": 181
+  },
+  {
+    "name": "ZANDBERGEN",
+    "weekday": 144,
+    "saturday": 39,
+    "sunday": 34
+  },
+  {
+    "name": "ZAVENTEM",
+    "weekday": 984,
+    "saturday": 399,
+    "sunday": 295
+  },
+  {
+    "name": "ZEDELGEM",
+    "weekday": 341,
+    "saturday": 128,
+    "sunday": 248
+  },
+  {
+    "name": "ZEEBRUGGE-DORP",
+    "weekday": 181,
+    "saturday": null,
+    "sunday": null
+  },
+  {
+    "name": "ZEEBRUGGE-STRAND",
+    "weekday": null,
+    "saturday": 177,
+    "sunday": 159
+  },
+  {
+    "name": "ZELE",
+    "weekday": 604,
+    "saturday": 155,
+    "sunday": 113
+  },
+  {
+    "name": "ZELLIK",
+    "weekday": 296,
+    "saturday": 95,
+    "sunday": 74
+  },
+  {
+    "name": "ZICHEM",
+    "weekday": 163,
+    "saturday": 81,
+    "sunday": 99
+  },
+  {
+    "name": "ZINGEM",
+    "weekday": 344,
+    "saturday": 79,
+    "sunday": 65
+  },
+  {
+    "name": "ZOLDER",
+    "weekday": 66,
+    "saturday": 23,
+    "sunday": 18
+  },
+  {
+    "name": "ZONHOVEN",
+    "weekday": 41,
+    "saturday": 18,
+    "sunday": 19
+  },
+  {
+    "name": "ZOTTEGEM",
+    "weekday": 2774,
+    "saturday": 580,
+    "sunday": 525
+  },
+  {
+    "name": "ZWIJNDRECHT",
+    "weekday": 183,
+    "saturday": 196,
+    "sunday": 28
+  }
+]
